@@ -10,5 +10,5 @@ package listaduplamenteencadeada;
  * @author Bruno
  */
 public class Caixinha {
-    
+
 }
