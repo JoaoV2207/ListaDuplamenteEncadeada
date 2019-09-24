@@ -10,7 +10,12 @@ package listaduplamenteencadeada;
  * @author Bruno
  */
 public class Main {
-public static void main(String[] args) {
+
+    /**
+     *
+     * @param args
+     */
+    public static void main(String[] args) {
     Aluno aluno1 = new Aluno("Lulinha", 50, "Sistemas");
     Aluno aluno2 = new Aluno("Dilminha", 45, "Economia");
     Aluno aluno3 = new Aluno("Aecinho", 30, "Quimica");
